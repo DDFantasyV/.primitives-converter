@@ -1,7 +1,5 @@
-# UPDATE: This project will not be maintained anymore. This is because Wargaming is now using .geometry and will remove .primitive functionality. I have created a new repository for my .geometry converter project
-
 # BigWorld Model Converter(.primitives)
-This is a Blender addon designed to be able to import and export World of Warships' .primitives+.visual files, designed for mod authors.
+This is a Blender addon designed to be able to import and export Мир кораблей' .primitives+.visual files, designed for mod authors.
 
 ## How to Add to Blender-Windows?
 1. In order to add addons to Blender, first you need to locate your `addons_contrib` folder. Depending on how you installed Blender, it can be located in different places.
